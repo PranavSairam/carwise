@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 640 360" role="img" aria-label="Volvo XC40">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="paint" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <ellipse cx="500" cy="60" rx="120" ry="80" fill="#F8FAFC" opacity="0.14"/>
+  <text x="32" y="44" fill="#fff" fill-opacity="0.6" font-family="system-ui,sans-serif" font-size="16" font-weight="700" letter-spacing="3">VOLVO</text>
+  
+  <path d="M48 258 L105 258 C135 195 185 150 260 138 L360 132 C430 128 480 148 525 195 L565 258 L598 258 C605 258 610 265 610 273 L610 292 L42 292 L42 273 C42 265 45 258 48 258 Z M260 138 C310 95 400 90 485 148 L360 132 L260 138 Z" fill="url(#paint)" stroke="#fff" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="175" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="175" cy="280" r="11" fill="#9CA3AF"/>
+  <circle cx="505" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="505" cy="280" r="11" fill="#9CA3AF"/>
+  <rect x="255" y="155" width="95" height="48" rx="8" fill="#020617" opacity="0.35"/>
+  <rect x="365" y="155" width="72" height="48" rx="8" fill="#020617" opacity="0.28"/>
+  <text x="32" y="332" fill="#fff" font-family="Georgia,serif" font-size="40" font-weight="700">XC40</text>
+  <text x="608" y="332" text-anchor="end" fill="#F8FAFC" font-family="system-ui,sans-serif" font-size="15" font-weight="700">Luxury</text>
+</svg>

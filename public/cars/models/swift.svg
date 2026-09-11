@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 640 360" role="img" aria-label="Maruti Swift">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="paint" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#93C5FD"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <ellipse cx="500" cy="60" rx="120" ry="80" fill="#93C5FD" opacity="0.14"/>
+  <text x="32" y="44" fill="#fff" fill-opacity="0.6" font-family="system-ui,sans-serif" font-size="16" font-weight="700" letter-spacing="3">MARUTI</text>
+  
+  <path d="M70 250 L110 250 C130 200 170 160 230 150 L360 148 C420 148 460 175 485 210 L520 250 L555 250 C565 250 570 258 570 268 L570 285 L65 285 L65 268 C65 258 68 250 70 250 Z M230 150 C280 105 350 100 410 145 L360 148 L230 150 Z" fill="url(#paint)" stroke="#fff" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="175" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="175" cy="280" r="11" fill="#9CA3AF"/>
+  <circle cx="505" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="505" cy="280" r="11" fill="#9CA3AF"/>
+  <rect x="255" y="155" width="95" height="48" rx="8" fill="#020617" opacity="0.35"/>
+  <rect x="365" y="155" width="72" height="48" rx="8" fill="#020617" opacity="0.28"/>
+  <text x="32" y="332" fill="#fff" font-family="Georgia,serif" font-size="40" font-weight="700">Swift</text>
+  <text x="608" y="332" text-anchor="end" fill="#93C5FD" font-family="system-ui,sans-serif" font-size="15" font-weight="700">Hatchback</text>
+</svg>

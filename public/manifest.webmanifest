@@ -1,0 +1,18 @@
+{
+  "name": "CarWise",
+  "short_name": "CarWise",
+  "description": "Find the car you can actually afford in India.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f7",
+  "theme_color": "#0d9488",
+  "lang": "en-IN",
+  "icons": [
+    {
+      "src": "/cars/placeholder.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

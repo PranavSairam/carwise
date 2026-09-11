@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 640 360" role="img" aria-label="Toyota Innova HyCross">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1E3A8A"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="paint" x1="0" y1="0" x2="0.2" y2="1">
+      <stop offset="0%" stop-color="#93C5FD"/>
+      <stop offset="100%" stop-color="#1E3A8A"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" fill="url(#bg)"/>
+  <ellipse cx="500" cy="60" rx="120" ry="80" fill="#93C5FD" opacity="0.14"/>
+  <text x="32" y="44" fill="#fff" fill-opacity="0.6" font-family="system-ui,sans-serif" font-size="16" font-weight="700" letter-spacing="3">TOYOTA</text>
+  
+  <path d="M60 245 L95 245 C115 185 150 145 205 135 L500 130 C540 130 565 160 580 205 L600 245 L615 245 C620 245 625 252 625 262 L625 285 L55 285 L55 262 C55 252 58 245 60 245 Z M205 135 L500 130 L500 245 L205 245 Z" fill="url(#paint)" stroke="#fff" stroke-opacity="0.28" stroke-width="2"/>
+  <circle cx="175" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="175" cy="280" r="11" fill="#9CA3AF"/>
+  <circle cx="505" cy="280" r="30" fill="#0B1220" stroke="#E5E7EB" stroke-width="5"/>
+  <circle cx="505" cy="280" r="11" fill="#9CA3AF"/>
+  <rect x="255" y="155" width="95" height="48" rx="8" fill="#020617" opacity="0.35"/>
+  <rect x="365" y="155" width="72" height="48" rx="8" fill="#020617" opacity="0.28"/>
+  <text x="32" y="332" fill="#fff" font-family="Georgia,serif" font-size="40" font-weight="700">Innova HyCross</text>
+  <text x="608" y="332" text-anchor="end" fill="#93C5FD" font-family="system-ui,sans-serif" font-size="15" font-weight="700">MPV</text>
+</svg>
